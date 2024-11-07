@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python for Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE
+- ⚡ Fun fact: 
 
 <!---
 Saadbagga/Saadbagga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
